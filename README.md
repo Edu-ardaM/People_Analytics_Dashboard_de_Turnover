@@ -32,4 +32,4 @@ A alta taxa de rotatividade (turnover) impacta diretamente o caixa da empresa co
   ---
 
   ## 📊 Visualização
-![Dashboard](People Analytics - Dashboard de Turnover.pbix)
+![Interface do Dashboard](./images/People%20Analytics%20-%20Dashboard%20de%20Turnover.png)
