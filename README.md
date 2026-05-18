@@ -29,7 +29,7 @@ A alta taxa de rotatividade (turnover) impacta diretamente o caixa da empresa co
       0
   )
 
-  ---
+---
 
   ## 📊 Visualização
 
